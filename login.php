@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Home - SiteUnb</title>
+    <title>Login</title>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
